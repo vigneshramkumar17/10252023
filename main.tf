@@ -5,6 +5,6 @@ provider "azurerm" {
 
 # Define the resource group
 resource "azurerm_resource_group" "arm" {
-  name     = "testerty"
+  name     = "testyyerty"
   location = "East US"
 }

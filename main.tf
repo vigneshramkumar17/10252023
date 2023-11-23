@@ -13,7 +13,7 @@ provider "azurerm" {
   features {}
 }
 
-resource "azurerm_resource_group" "example123" {
-  name     = "rgsos1"
+resource "azurerm_resource_group" "example1234" {
+  name     = "rgsos12"
   location = "East US"
 }

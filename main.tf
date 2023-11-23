@@ -13,7 +13,7 @@ provider "azurerm" {
   features {}
 }
 
-resource "azurerm_resource_group" "example" {
-  name     = "examplkkkkk"
+resource "azurerm_resource_group" "examplej" {
+  name     = "examplkkkkkj"
   location = "centralus"
 }
